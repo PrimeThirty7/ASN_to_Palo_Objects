@@ -7,14 +7,14 @@
 #
 # Some parameters set below, along with debugging info.
 #
-OUTPUT_DIR="."            # default to current directory
-DEVICE_GROUP="External"   # Your device group, this is used in the commands
-TAG="ASN_Blocks"          # A tag to add to the objects and group  
-CUSTOM_OBJ_PREFIX="2025_" # A prefix which is added to all objects
-WT_HEIGHT=10              # Height that whiptail will use
-WT_WIDTH=60               # Width that whiptail will use
-DEBUG=false               # Enable debugging if required true|false
-DEBUG_LOG="./debug.log"   # Debug Filename/location
+OUTPUT_DIR="."                  # default to current directory
+DEVICE_GROUP="External"         # Your device group, this is used in the commands
+TAG="ASN_Blocks"                # A tag to add to the objects and group
+CUSTOM_OBJ_PREFIX="ASN_2_PALO_" # A prefix which is added to all objects
+WT_HEIGHT=10                    # Height that whiptail will use
+WT_WIDTH=60                     # Width that whiptail will use
+DEBUG=false                     # Enable debugging if required true|false
+DEBUG_LOG="./debug.log"         # Debug Filename/location
 
 ###############################################
 # --- Set Whiptail for common appearance
