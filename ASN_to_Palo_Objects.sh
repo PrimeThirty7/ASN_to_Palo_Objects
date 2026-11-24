@@ -7,6 +7,10 @@
 #
 # Some parameters set below, along with debugging info.
 #
+
+# Updated on 24 November 2026
+# Testing Git integration
+
 OUTPUT_DIR="."                  # default to current directory
 DEVICE_GROUP="External"         # Your device group, this is used in the commands
 TAG="ASN_Blocks"                # A tag to add to the objects and group
